@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\01068e18-bf5d-42cd-89e7-93e9ec934a7b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\01068e18-bf5d-42cd-89e7-93e9ec934a7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0bdc367c-4d44-436f-836f-7f370dbc5596.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0bdc367c-4d44-436f-836f-7f370dbc5596.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\421c3551-28b1-4b6d-912b-d5b706416423.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\421c3551-28b1-4b6d-912b-d5b706416423.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\438e0db5-a9af-4673-9cf2-c62e640cedbd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\438e0db5-a9af-4673-9cf2-c62e640cedbd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\5a0b9b7b-09f0-4e52-860e-35cdd188064d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5a0b9b7b-09f0-4e52-860e-35cdd188064d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\6fbc0ba0-f109-476c-84b2-5598b096e6f5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6fbc0ba0-f109-476c-84b2-5598b096e6f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\7bb3c956-c684-41b4-88f5-6edfa9058529.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7bb3c956-c684-41b4-88f5-6edfa9058529.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\b132fa65-3d3b-4e7f-b70f-ce15e70f1994.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\b132fa65-3d3b-4e7f-b70f-ce15e70f1994.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\c56dc965-8ff6-4c08-a676-c8714ef576bf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\c56dc965-8ff6-4c08-a676-c8714ef576bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\acb3d47c-8f90-4eb5-afd9-fabd585379f4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\acb3d47c-8f90-4eb5-afd9-fabd585379f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\eb1de20b-b610-45bc-a06b-f9072be1990d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\eb1de20b-b610-45bc-a06b-f9072be1990d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\1de9dd55-4148-49d4-9980-fec1c809d546.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\1de9dd55-4148-49d4-9980-fec1c809d546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\9bf26552-15c4-4064-b317-7d8ecdd71eb3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\9bf26552-15c4-4064-b317-7d8ecdd71eb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\3a002ce7-d104-4469-834e-89a322c877be.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\3a002ce7-d104-4469-834e-89a322c877be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\a228970c-ba54-41f8-b6f5-2df06a02a54c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\a228970c-ba54-41f8-b6f5-2df06a02a54c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\a2c6bb86-9d93-4596-a104-cea461450034.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\a2c6bb86-9d93-4596-a104-cea461450034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\eb42aa18-371b-4124-9d40-3fb3f20630e4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\eb42aa18-371b-4124-9d40-3fb3f20630e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\7d3b2c85-2c1f-4485-9832-0b7bb031fb3a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\7d3b2c85-2c1f-4485-9832-0b7bb031fb3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\be309f95-598d-40fe-b586-e6ec7b5e1689.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\be309f95-598d-40fe-b586-e6ec7b5e1689.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aleksandra\\Desktop\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\aleksandra\Desktop\Bulky\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
